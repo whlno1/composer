@@ -1,2 +1,2 @@
 # composer
-composer study
+本人测试学习Composer之用.
