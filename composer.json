@@ -2,9 +2,6 @@
     "name": "whlno1/composer",
     "description": "composer study",
     "type": "project",
-    "require": {
-        "houdunwang/hdphp": "*"
-    },
     "license": "MIT",
     "authors": [
         {
@@ -12,5 +9,6 @@
             "email": "861831087@qq.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "require": {}
 }
